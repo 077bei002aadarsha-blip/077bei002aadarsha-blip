@@ -1,35 +1,82 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:888C65,100:6B6E4F&height=200&section=header&text=Hello_World&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%" />
 
+<div align="center">
 
-<!--
-**077bei002aadarsha-blip/077bei002aadarsha-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 **Full-Stack Developer in Progress**
+## **Building with TypeScript & React | Learning by Shipping Projects**
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there, I'm Aadarsha 👋
+![Profile Views](https://komarev.com/ghpvc/?username=077bei002aadarsha-blip&style=flat-square&color=888C65&label=profile+views&labelColor=0d1117)
 
-I'm a software developer new to GitHub, focused on building modern web applications with TypeScript, JavaScript, Node.js, React, Next.js, and Express.
-
-I'm currently learning best practices in full-stack development, exploring scalable architectures, and working on personal projects to strengthen my skills. I enjoy solving problems through clean, maintainable code and am excited to contribute to open source as I grow.
-
-## 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript
-- **Frontend:** React, Next.js
-- **Backend:** Node.js, Express
-- **Tools:** Git, GitHub, npm/yarn
-
-## 📫 Let's Connect
-- GitHub: [@077bei002aadarsha-blip](https://github.com/077bei002aadarsha-blip)
-- Email: thapamagaraadarsha97@gmail.com
+</div>
 
 ---
 
-*I'm open to collaboration, feedback, and learning opportunities. Feel free to explore my repositories or reach out!*
+## 🧠 **About Me**
+
+### I am building full-stack web applications while mastering **TypeScript fundamentals** and **modern React architecture**. 
+
+- 🛡️ **Type Safety:** Writing robust, type-safe React components.
+- ⚙️ **Backend:** Designing REST APIs with **Express** and **Node.js**.
+- 🛠️ **Workflow:** Mastering Git-based version control and terminal efficiency.
+- 📦 **Consistency:** Shipping small, functional projects daily.
+
+---
+
+## 🛠 **My Tech Stack**
+
+<div align="center">
+
+### **Frontend Mastery**
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+
+<br>
+
+### **Backend & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+### **Statistics & Most Used Languages**
+
+<img src="https://github-readme-stats.vercel.app/api?username=077bei002aadarsha-blip&show_icons=true&theme=dark&bg_color=0d1117&title_color=888C65&icon_color=888C65&text_color=ffffff&hide_border=true" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=077bei002aadarsha-blip&layout=compact&theme=dark&bg_color=0d1117&title_color=888C65&text_color=ffffff&hide_border=true" height="185"/>
+
+<br>
+
+### **Current Streak**
+<img src="https://streak-stats.demolab.com?user=077bei002aadarsha-blip&theme=dark&background=0d1117&fire=888C65&ring=888C65&stroke=888C65&currStreakLabel=888C65" width="100%"/>
+
+</div>
+
+---
+
+## 📬 **Contact & Connect**
+
+<div align="center">
+
+### **Reach out to me!**
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=thapamagaraadarsha97@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/077bei002aadarsha-blip)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B6E4F,100:888C65&height=120&section=footer" width="100%" />
