@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:5E5CE6&height=220&section=header&text=Aadarsha&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=44&desc=Full-Stack%20TypeScript%20Developer&descSize=22&descAlign=50&descAlignY=66&descColor=ffffffCC" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:888C65,100:6B6E4F&height=180&section=header" width="100%" />
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=077bei002aadarsha-blip&style=flat-square&color=0071E3&label=profile+views&labelColor=0d1117)](https://github.com/077bei002aadarsha-blip)
+[![Profile Views](https://komarev.com/ghpvc/?username=077bei002aadarsha-blip&style=flat-square&color=888C65&label=profile+views&labelColor=0d1117)](https://github.com/077bei002aadarsha-blip)
 
 </div>
 
@@ -89,13 +89,13 @@ Stay tuned.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=077bei002aadarsha-blip&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=0071E3&title_color=ffffff&text_color=8E8E93" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=077bei002aadarsha-blip&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=888C65&title_color=ffffff&text_color=8E8E93&cache_seconds=86400" height="160" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=077bei002aadarsha-blip&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8E8E93" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=077bei002aadarsha-blip&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8E8E93&cache_seconds=86400" height="160" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=077bei002aadarsha-blip&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0071E3&ring=0071E3&fire=5E5CE6&currStreakLabel=ffffff&sideLabels=8E8E93&dates=8E8E93&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=077bei002aadarsha-blip&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=888C65&ring=888C65&fire=6B6E4F&currStreakLabel=ffffff&sideLabels=8E8E93&dates=8E8E93&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 
 </div>
 
@@ -113,4 +113,4 @@ Stay tuned.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E5CE6,100:0071E3&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B6E4F,100:888C65&height=120&section=footer" width="100%" />
