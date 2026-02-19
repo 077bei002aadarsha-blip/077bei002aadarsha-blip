@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=4000&pause=3500&color=8E8E93&center=true&vCenter=true&width=520&lines=Crafting+reliable+and+scalable+web+applications.;TypeScript+%E2%80%94+React+%E2%80%94+Next.js+%E2%80%94+Node.js+%E2%80%94+Express)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=4000&pause=3500&color=8E8E93&center=true&vCenter=true&width=520&lines=Learning+to+build+web+applications.;TypeScript+%E2%80%94+React+%E2%80%94+Next.js+%E2%80%94+Node.js+%E2%80%94+Express)](https://git.io/typing-svg)
 
 <br>
 
@@ -14,12 +14,12 @@
 
 ## About
 
-> Full-stack engineer focused on the TypeScript ecosystem — building products that are fast, well-structured, and built to last.
+> Beginner full-stack developer taking my first steps with TypeScript, React, and Node.js — learning through hands-on projects and growing one commit at a time.
 
-- **Stack** — React, Next.js, Node.js, Express, TypeScript across the entire layer
-- **Architecture** — Clean layering, scalable API design, SSR & edge runtimes
-- **Craft** — Readable, well-tested code. Engineering best practices, always.
-- **Open source** — Available for collaboration on meaningful engineering problems
+- **Learning** — Getting started with React, Next.js, Node.js, Express, and TypeScript
+- **Exploring** — Understanding how web applications are structured, from frontend to backend
+- **Building** — Working on personal projects to strengthen my skills and learn by doing
+- **Open to** — Feedback, mentorship, and collaboration from the developer community
 
 <br>
 
