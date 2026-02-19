@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:888C65,100:6B6E4F&height=180&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:888C65,100:6B6E4F&height=200&section=header&text=Hello%2C+World!&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=4000&pause=3500&color=8E8E93&center=true&vCenter=true&width=520&lines=Learning+to+build+web+applications.;TypeScript+%E2%80%94+React+%E2%80%94+Next.js+%E2%80%94+Node.js+%E2%80%94+Express)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=2500&color=888C65&center=true&vCenter=true&width=560&lines=Every+expert+was+once+a+beginner.;Learning+TypeScript%2C+one+error+at+a+time.;console.log(%22Hello%2C+World!%22)%E2%80%94+and+that%27s+how+it+starts.;Building+in+public+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br>
 
@@ -12,18 +12,29 @@
 
 <br>
 
-## About
+## 🧠 About
 
-> Beginner full-stack developer taking my first steps with TypeScript, React, and Node.js — learning through hands-on projects and growing one commit at a time.
+> Started my dev journey recently — navigating error messages, building small things, and slowly figuring out how the web actually works. One commit at a time.
 
-- **Learning** — Getting started with React, Next.js, Node.js, Express, and TypeScript
-- **Exploring** — Understanding how web applications are structured, from frontend to backend
-- **Building** — Working on personal projects to strengthen my skills and learn by doing
-- **Open to** — Feedback, mentorship, and collaboration from the developer community
+- **Day 1 → N** — Picking up TypeScript, React, and Node.js completely from scratch
+- **Figuring out** — How the frontend and backend connect, and why it matters
+- **Shipping** — Small projects to turn tutorials into real, working code
+- **Looking for** — Feedback, guidance, and the occasional debugging lifeline
 
 <br>
 
-## Tech Stack
+## 🌱 Currently Learning
+
+```
+TypeScript        █████░░░░░░░░░░░   learning the basics
+React             ████░░░░░░░░░░░░   hooks & components
+Node.js / Express ████░░░░░░░░░░░░   building first APIs
+Git & GitHub      ██████░░░░░░░░░░   getting comfortable
+```
+
+<br>
+
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -54,7 +65,7 @@
 
 <br>
 
-## Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
@@ -62,20 +73,20 @@
 <tr>
 <td width="50%" valign="top">
 
-**Profile**
+**✦ This Profile**
 
 [077bei002aadarsha-blip](https://github.com/077bei002aadarsha-blip/077bei002aadarsha-blip)
 
-This profile repository — the one you're reading now.
+The README you're reading right now — my very first public project.
 
 </td>
 <td width="50%" valign="top">
 
-**Coming Soon**
+**✦ Coming Soon**
 
-More projects in progress — building in public.
+More projects in progress — learning in public.
 
-Stay tuned.
+Watch this space. 👀
 
 </td>
 </tr>
@@ -85,7 +96,7 @@ Stay tuned.
 
 <br>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -101,7 +112,7 @@ Stay tuned.
 
 <br>
 
-## Contact
+## 📬 Contact
 
 <div align="center">
 
