@@ -60,10 +60,10 @@ I am building full-stack web applications while mastering **TypeScript fundament
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=077bei002aadarsha-blip&show_icons=true&theme=dark&bg_color=0d1117&title_color=888C65&icon_color=888C65&text_color=ffffff&hide_border=true&rank_icon=github&cache_seconds=86400" width="390" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=077bei002aadarsha-blip&show_icons=true&theme=dark&bg_color=0d1117&title_color=888C65&icon_color=888C65&text_color=ffffff&hide_border=true&rank_icon=github&cache_seconds=86400" width="390" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=077bei002aadarsha-blip&layout=compact&theme=dark&bg_color=0d1117&title_color=888C65&text_color=ffffff&hide_border=true&langs_count=6&cache_seconds=86400" width="290" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=077bei002aadarsha-blip&layout=compact&theme=dark&bg_color=0d1117&title_color=888C65&text_color=ffffff&hide_border=true&langs_count=6&cache_seconds=86400" width="290" />
     </td>
   </tr>
 </table>
@@ -135,8 +135,14 @@ I am building full-stack web applications while mastering **TypeScript fundament
 
 <br>
 
-</div>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B6E4F,100:888C65&height=120&section=footer" width="100%" />
+<br/>
+
+*Thanks for stopping by — now go build something.* 🚀
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B6E4F,100:888C65&height=160&section=footer&text=Keep%20Shipping.&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=65&desc=One%20commit%20at%20a%20time.&descSize=16&descAlign=50&descAlignY=85&descFontColor=dddddd" width="100%" />
